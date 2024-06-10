@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiang Yin, a PhD student at Imperial College London.
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am Xiang, a PhD student in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research, funded by the [ERC project on Argumentation-based Deep Interactive Explanations](https://cordis.europa.eu/project/id/101020934), focuses on explainable AI, symbolic AI, and computational argumentation, particularly using formal methods to generate explanations for AI models.
+
+Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year.
+
+If you would like to know more about me, please take a look at my CV :)
 
 A data-driven personal website
 ======
