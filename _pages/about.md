@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,7 @@ redirect_from:
 
 Hello! I am Xiang, a PhD student in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research, funded by the [ERC project on Argumentation-based Deep Interactive Explanations](https://cordis.europa.eu/project/id/101020934), focuses on explainable AI, symbolic AI, and computational argumentation, particularly using formal methods to generate explanations for AI models.
 
-Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year.
-
-If you would like to know more about me, please take a look at my CV :)
+Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommendation algorithms and systems to optimize user experience and search engine performance.
 
 A data-driven personal website
 ======
