@@ -23,4 +23,6 @@ Publications
 - [**Explaining Random Forests Using Bipolar Argumentation and Markov Networks**](https://ojs.aaai.org/index.php/AAAI/article/view/26132)\
 N. Potyka, **X. Yin**, F. Toni. The 37th AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
-
+- [**On the Tradeoff Between Correctness and Completeness in Argumentative Explainable AI**](https://ceur-ws.org/Vol-3209/8151.pdf)\
+N. Potyka, **X. Yin**, F. Toni. The 1st International Workshop on Argumentation for eXplainable AI
+ (ArgXAI @ COMMA), 2022.
