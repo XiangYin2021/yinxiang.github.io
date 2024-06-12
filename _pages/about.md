@@ -11,7 +11,7 @@ Hello! I am Xiang, a PhD student in the Computational Logic and Argumentation gr
 
 Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommender algorithms and systems to optimize user experience and search engine performance.
 
-Publications
+<font size="6">Publications</font>
 ======
 
 - [**Explaining Arguments’ Strength: Unveiling the Role of Attacks and Supports**](https://arxiv.org/abs/2404.14304)\
