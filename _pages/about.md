@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Home
+======
 
 Hello! I am Xiang, a PhD student in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research, funded by the [ERC project on Argumentation-based Deep Interactive Explanations](https://cordis.europa.eu/project/id/101020934), focuses on explainable AI, symbolic AI, and computational argumentation, particularly using formal methods to generate explanations for AI models.
 
 Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommender algorithms and systems to optimize user experience and search engine performance.
 
-<font size="6">Publications</font>
+Research
 ======
 
 - [**Explaining Arguments’ Strength: Unveiling the Role of Attacks and Supports**](https://arxiv.org/abs/2404.14304)\
