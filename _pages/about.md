@@ -16,6 +16,9 @@ Before starting my PhD, I worked as a machine learning research and development 
 Research
 ------
 
+- [**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/pdf/2407.08497)\
+**X. Yin**, N. Potyka, F. Toni. The 21st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2024.
+
 - [**Explaining Arguments’ Strength: Unveiling the Role of Attacks and Supports**](https://arxiv.org/abs/2404.14304)\
 **X. Yin**, N. Potyka, F. Toni. The 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024.
 
