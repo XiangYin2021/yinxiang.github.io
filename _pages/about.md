@@ -21,7 +21,7 @@ Research
  (ArgXAI @ COMMA), 2024.
 
 - [**Contribution functions for quantitative bipolar argumentation graphs: A principle-based analysis**](https://www.sciencedirect.com/science/article/pii/S0888613X24001427?via%3Dihub)\
-Timotheus Kampik, N. Potyka, **X. Yin**, Kristijonas Čyras, F. Toni. International Journal of Approximate Reasoning
+T. Kampik, N. Potyka, **X. Yin**, K. Čyras, F. Toni. International Journal of Approximate Reasoning
  (IJAR), 2024.
   
 - [**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/pdf/2407.08497)\
