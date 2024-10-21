@@ -19,6 +19,10 @@ Research
 - [**Applying Attribution Explanations in Truth-Discovery Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/abs/2409.05831)\
 **X. Yin**, N. Potyka, F. Toni. The 2nd International Workshop on Argumentation for eXplainable AI
  (ArgXAI @ COMMA), 2024.
+
+- [**Contribution functions for quantitative bipolar argumentation graphs: A principle-based analysis**](https://www.sciencedirect.com/science/article/pii/S0888613X24001427?via%3Dihub)\
+Timotheus Kampik, N. Potyka, **X. Yin**, Kristijonas Čyras, F. Toni. International Journal of Approximate Reasoning
+ (IJAR), 2024.
   
 - [**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/pdf/2407.08497)\
 **X. Yin**, N. Potyka, F. Toni. The 21st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2024.
