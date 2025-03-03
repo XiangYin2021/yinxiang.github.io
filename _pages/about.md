@@ -24,10 +24,10 @@ Research
 T. Kampik, N. Potyka, **X. Yin**, K. Čyras, F. Toni. International Journal of Approximate Reasoning
  (IJAR), 2024.
 
-- [**Contestable AI Needs Computational Argumentation**](https://proceedings.kr.org/2024/66/)\
+- [**Contestable AI Needs Computational Argumentation**](https://proceedings.kr.org/2024/83/)\
 F. Leofante, H. Ayoobi, A. Dejl, G. Freedman, D. Gorur, J. Jiang, G. Paulino-Passos, A. Rago, A. Rapberger, F. Russo, X. Yin, D. Zhang, F. Toni. The 21st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2024.
   
-- [**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks**](https://proceedings.kr.org/2024/83/)\
+- [**CE-QArg: Counterfactual Explanations for Quantitative Bipolar Argumentation Frameworks**](https://proceedings.kr.org/2024/66/)\
 **X. Yin**, N. Potyka, F. Toni. The 21st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2024.
 
 - [**Explaining Arguments’ Strength: Unveiling the Role of Attacks and Supports**](https://www.ijcai.org/proceedings/2024/0401.pdf)\
