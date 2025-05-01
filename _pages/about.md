@@ -9,12 +9,15 @@ redirect_from:
 
 Home
 ------
-Hello! I am Xiang, a PhD student in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/), working under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research, funded by the [ERC project on Argumentation-based Deep Interactive Explanations](https://cordis.europa.eu/project/id/101020934), focuses on explainable AI (XAI) and Computational Argumentation (CA), particularly the explainability of Quantitative Bipolar Argumentation Frameworks (QBAFs).
+Hello! I am Xiang, a Research Associate in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Previously, I did my PhD under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research focuses on explainable AI (XAI) and Computational Argumentation (CA), particularly the explainability of Quantitative Bipolar Argumentation Frameworks (QBAFs).
 
 Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommender algorithms and systems to optimize user experience and search engine performance.
 
 Research
 ------
+
+- [**Argumentative Large Language Models for Explainable and Contestable Claim Verification**](https://ojs.aaai.org/index.php/AAAI/article/view/33637)\
+G. Freedman*, A. Dejl*, D. Gorur*, **X. Yin***, A. Rago, F. Toni. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 - [**Applying Attribution Explanations in Truth-Discovery Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/abs/2409.05831)\
 **X. Yin**, N. Potyka, F. Toni. The 2nd International Workshop on Argumentation for eXplainable AI
