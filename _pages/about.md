@@ -9,7 +9,7 @@ redirect_from:
 
 Home
 ------
-Hello! I am Xiang, a Research Associate in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Previously, I did my PhD under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research focuses on explainable AI (XAI) and Computational Argumentation (CA), particularly the explainability of Quantitative Bipolar Argumentation Frameworks (QBAFs).
+Hello! I am Xiang, a Research Associate in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Previously, I did my PhD at Imperial as well under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research focuses on explainable AI (XAI) and Computational Argumentation (CA), particularly the explainability of Quantitative Bipolar Argumentation Frameworks (QBAFs).
 
 Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommender algorithms and systems to optimize user experience and search engine performance.
 
