@@ -16,8 +16,16 @@ Before starting my PhD, I worked as a machine learning research and development 
 Research
 ------
 
+
+- [**Strength Change Explanations in Quantitative Argumentation**]()\
+T. Kampik, **X. Yin**, N. Potyka, F. Toni. The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
+
+- [**On the Impact of Sparsification on Quantitative Argumentative Explanations in Neural Networks**](https://ceur-ws.org/Vol-4066/paper_4.pdf)\
+D. Peacock, Mansi, N. Potyka, F. Toni, **X. Yin**. The 3rd International Workshop on Argumentation for eXplainable AI
+ (ArgXAI @ ECAI), 2025.
+
 - [**Argumentative Large Language Models for Explainable and Contestable Claim Verification**](https://ojs.aaai.org/index.php/AAAI/article/view/33637)\
-G. Freedman*, A. Dejl*, D. Gorur*, **X. Yin***, A. Rago, F. Toni. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025.
+G. Freedman\*, A. Dejl\*, D. Gorur\*, **X. Yin**\*, A. Rago, F. Toni. The 39th AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 - [**Applying Attribution Explanations in Truth-Discovery Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/abs/2409.05831)\
 **X. Yin**, N. Potyka, F. Toni. The 2nd International Workshop on Argumentation for eXplainable AI
