@@ -16,6 +16,8 @@ Before starting my PhD, I worked as a machine learning research and development 
 Research
 ------
 
+- [**Contestability in Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/abs/2507.11323)\
+**X. Yin**, N. Potyka, A. Rago, T. Kampik, F. Toni. The 23st International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026.
 
 - [**Strength Change Explanations in Quantitative Argumentation**]()\
 T. Kampik, **X. Yin**, N. Potyka, F. Toni. The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
