@@ -9,13 +9,25 @@ redirect_from:
 
 Home
 ------
-Hello! I am Xiang, a Research Associate in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) of [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Previously, I did my PhD at Imperial as well under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan). My research focuses on explainable AI (XAI) and Computational Argumentation (CA), particularly the explainability of Quantitative Bipolar Argumentation Frameworks (QBAFs).
+Hello! I am Xiang, a Research Associate in the Computational Logic and Argumentation group ([CLArg](https://clarg.doc.ic.ac.uk/clarg-design/website/index.html)) in the [Department of Computing](https://www.imperial.ac.uk/computing/) at [Imperial College London](https://www.imperial.ac.uk/). Previously, I completed my PhD at Imperial under the supervision of [Prof. Francesca Toni](https://www.doc.ic.ac.uk/~ft/) and [Dr. Nico Potyka](https://profiles.cardiff.ac.uk/staff/potykan).
 
-Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I was involved in developing advanced search recommender algorithms and systems to optimize user experience and search engine performance.
+My research lies at the intersection of explainable AI, computational argumentation, and trustworthy decision-making. I develop formal argumentation-based methods for making AI systems more explainable, contestable, and reliable, with a particular focus on Quantitative Bipolar Argumentation Frameworks (QBAFs). My recent work extends these methods towards evaluative AI systems, including applications in educational assessment and feedback, where transparency, robustness, and contestability are essential for responsible AI-supported decision-making.
+
+Before starting my PhD, I worked as a machine learning research and development engineer in the Department of Search Science at [Baidu](https://home.baidu.com/) for one year. During my time at Baidu, I developed AI algorithms for large-scale search systems, with the aim of improving user experience and search engine performance.
+
 
 Research
 ------
+- [**Interpretable Automated Essay Scoring via Quantitative Bipolar Argumentation**]()\
+**X. Yin**. Explainable Logic-Based Knowledge Representation (XLoKR) and Explanations with Constraints and Satisfiability (ExCoS) (XLoKR-ExCoS @ KR), 2026.
 
+- [**Latent Debate: A Surrogate Framework for Interpreting LLM Thinking
+towards Binary Decisions**]()\
+L. Chen, **X. Yin**, F. Toni. Explainable Logic-Based Knowledge Representation (XLoKR) and Explanations with Constraints and Satisfiability (ExCoS) (XLoKR-ExCoS @ KR), 2026.
+
+- [**Towards an Argumentative Foundation for Evaluative AI**]()\
+**X. Yin**, T. Miller, N. Potyka, A. Rago, F. Toni. IJCAI 2026 Workshop on Explainable Artificial Intelligence (XAI @ IJCAI), 2026.
+  
 - [**Contestability in Quantitative Bipolar Argumentation Frameworks**](https://arxiv.org/abs/2507.11323)\
 **X. Yin**, N. Potyka, A. Rago, T. Kampik, F. Toni. The 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR), 2026.
 
